@@ -1,1 +1,3 @@
 new tag
+
+try git release
